@@ -6,7 +6,7 @@ Complex lighted underwater image dataset (CLUID) can be downloaded at:  https://
 2. The code has been tested on Windows 11 64bit with MATLAB 2021a.
 
 # Usage
-1. Place the image to be tested into the 'image' folder.
+1. Place the image to be tested into the 'test' folder.
 2. Please run the 'main.m' file and view the corresponding result in the 'result' folder.
 
 # Others
